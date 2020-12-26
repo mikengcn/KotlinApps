@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3e59daf-e834-4638-8557-d1d6c21112b0" name="Default Changelist" comment="">
+<<<<<<< .merge_file_V03vPd
+=======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< HEAD
 =======
+>>>>>>> .merge_file_gjF42u
       <change beforePath="$PROJECT_DIR$/test5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test5.kt" afterDir="false" />
 >>>>>>> a8dad148a6e460efde2fae2cc47513eca67df38c
     </list>
