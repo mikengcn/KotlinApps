@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< .merge_file_SsCqPV
       <module fileurl="file://$PROJECT_DIR$/.idea/KotlinApps.iml" filepath="$PROJECT_DIR$/.idea/KotlinApps.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/KotlinApps2.iml" filepath="$PROJECT_DIR$/.idea/KotlinApps2.iml" />
+>>>>>>> .merge_file_zUJcGk
     </modules>
   </component>
 </project>
