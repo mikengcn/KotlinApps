@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-u got aids
-=======
-u got covid
->>>>>>> origin/master
+u got covid19
