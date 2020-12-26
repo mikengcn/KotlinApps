@@ -11,4 +11,4 @@ u got covid20
 
 
 u got h
-        china
+        china usa
