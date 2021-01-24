@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 C123456789ABCDEFGHIJKabcd
+=======
+123456789ABCDEFGHabcd
+>>>>>>> 41b13c3f2b633413ce34c5b8a771d25630feae41
         
