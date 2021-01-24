@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-123456789ABCDEFGHIabcd
+C123456789ABCDEFGHIJKabcd
         
-=======
-123456789ABabcd
-        
->>>>>>> parent of 6d1c999... C
