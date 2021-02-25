@@ -1,2 +1,2 @@
-Good day ssssksldfjl
+ssssksldfjl
         
